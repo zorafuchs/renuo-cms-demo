@@ -8,4 +8,4 @@ into static web pages.
 * [HTML5 UP](http://html5up.net)
 
 ## Webpage
-Visit the [Demo Page](http://renuo.github.io/renuo-cms-demo/)!
+Visit the [Demo Page](https://renuo.github.io/renuo-cms-demo/)!
